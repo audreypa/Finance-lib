@@ -1,0 +1,20 @@
+# .gitignore
+
+/build/
+/bin/
+
+Makefile
+makefile
+Makefile.*
+
+
+# Ignorez les fichiers générés par CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+_CPack_Packages/
+cmake_install.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CTestTestfile.cmake
+install_manifest.txt
