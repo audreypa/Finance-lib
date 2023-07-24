@@ -1,4 +1,7 @@
 # .gitignore
+/build/
+/bin/
+
 Makefile
 
 CMakeCache.txt
