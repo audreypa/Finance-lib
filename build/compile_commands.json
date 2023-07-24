@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/main.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/main.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/main.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/Asian.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/Asian.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/Asian.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/Asian.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/BSFormula.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/BSFormula.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/BSFormula.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/BSFormula.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/Cholesky.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/Cholesky.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/Cholesky.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/Cholesky.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/LU.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/LU.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/LU.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/LU.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/Linear_Congruential_Generator.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/Linear_Congruential_Generator.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/Linear_Congruential_Generator.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/Linear_Congruential_Generator.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/MCSimulation.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/MCSimulation.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/MCSimulation.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/MCSimulation.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/Payoff.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/Payoff.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/Payoff.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/Payoff.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/QRDecomposition.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/QRDecomposition.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/QRDecomposition.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/QRDecomposition.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/SimpleMatrix.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/SimpleMatrix.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/SimpleMatrix.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/SimpleMatrix.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/ThomasAlg.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/ThomasAlg.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/ThomasAlg.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/ThomasAlg.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/black_scholes.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/black_scholes.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/black_scholes.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/black_scholes.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/statistics.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/statistics.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/statistics.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/statistics.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/test.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/test.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/test.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/test.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/test_matrix.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/test_matrix.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/test_matrix.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/test_matrix.cpp.o"
+},
+{
+  "directory": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/build",
+  "command": "/usr/bin/clang++  -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/include -I/Users/audreypchl/code/audreypa/cpp/Finance-lib/libs/eigen-3.4.0  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/FINANCE-LIB.dir/src/vanilla_option.cpp.o -c /Users/audreypchl/code/audreypa/cpp/Finance-lib/src/vanilla_option.cpp",
+  "file": "/Users/audreypchl/code/audreypa/cpp/Finance-lib/src/vanilla_option.cpp",
+  "output": "CMakeFiles/FINANCE-LIB.dir/src/vanilla_option.cpp.o"
+}
+]

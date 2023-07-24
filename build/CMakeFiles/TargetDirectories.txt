@@ -1,0 +1,4 @@
+/Users/audreypchl/code/audreypa/cpp/Finance-lib/build/CMakeFiles/FINANCE-LIB.dir
+/Users/audreypchl/code/audreypa/cpp/Finance-lib/build/CMakeFiles/test.dir
+/Users/audreypchl/code/audreypa/cpp/Finance-lib/build/CMakeFiles/edit_cache.dir
+/Users/audreypchl/code/audreypa/cpp/Finance-lib/build/CMakeFiles/rebuild_cache.dir
